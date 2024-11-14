@@ -1,3 +1,3 @@
 # Gleeful App Preview
 
-![Demo Animation] (media/1.gif)
+![Demo Animation] (https://github.com/dartchuwak/GleefulPreview/blob/main/media/1.gif)
