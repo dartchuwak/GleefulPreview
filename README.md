@@ -1,8 +1,6 @@
-# Gleeful App Preview
-
 <h2>Flows</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <div style="text-align: center;">
     <img src="https://github.com/dartchuwak/GleefulPreview/blob/main/media/1.gif" height="316" width="149" alt="Registration flow">
     <p>Registration flow</p>
